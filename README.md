@@ -1,3 +1,7 @@
+### Custom Build For Instamojo
+
+- This Fork is a custom build which removes all plugins from standalone version. It adds the `continue_editing` [plugin](https://github.com/bradleypriest/selectize.js/commit/b2bba1d1219a91ecc622ce06413a84ca76e31b17) to support seamless editing of the filled text input.
+
 # selectize.js
 [![Build Status](https://travis-ci.org/brianreavis/selectize.js.png?branch=master)](https://travis-ci.org/brianreavis/selectize.js)
 
